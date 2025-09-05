@@ -1,7 +1,7 @@
 # 💊 PharmaCart
 
 <p align="center">
-  <img src="assest/logo.png" alt="PharmaCart Logo" width="250"/>
+  <img src="assest/ChatGPT Image Sep 3, 2025, 11_45_28 PM.png" alt="PharmaCart Logo" width="250"/>
 </p>
 
 PharmaCart is a cross-platform **medical e-commerce app** built with **Flutter**.  
