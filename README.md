@@ -9,5 +9,5 @@ It enables users to browse, search, and purchase medicines, healthcare products,
 The app is designed to be **secure, user-friendly, and accessible** for both customers and admins.  
 
 ## ✨ Features 
-
+- medicine
 ---
