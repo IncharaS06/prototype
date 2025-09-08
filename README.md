@@ -10,4 +10,5 @@ The app is designed to be **secure, user-friendly, and accessible** for both cus
 
 ## ✨ Features 
 - medicine
+- dashboard
 ---
